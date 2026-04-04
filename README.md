@@ -22,7 +22,6 @@ Utilizando a biblioteca **Pandas**, foram realizadas:
 * Limpeza de dados (remoção de valores nulos, inconsistentes e inúteis)
 * Transformações e organização das informações
 
----
 
 ### 🔹 2. Visualização dos dados
 
