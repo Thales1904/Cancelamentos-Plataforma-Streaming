@@ -1,4 +1,4 @@
-# 🎬📊 Análise de Cancelamentos em Plataforma de Streaming
+# Análise de Cancelamentos em Plataforma de Streaming
 
 Este projeto tem como objetivo investigar os **motivos por trás do cancelamento de clientes** em uma plataforma de streaming, utilizando análise de dados para gerar insights estratégicos.
 
@@ -15,7 +15,7 @@ Através do uso de ferramentas de análise e visualização, buscamos responder 
 
 O projeto foi desenvolvido em duas etapas principais:
 
-### 🔹 1. Tratamento e análise de dados
+###  1. Tratamento e análise de dados
 
 Utilizando a biblioteca **Pandas**, foram realizadas:
 
@@ -23,7 +23,7 @@ Utilizando a biblioteca **Pandas**, foram realizadas:
 * Transformações e organização das informações
 
 
-### 🔹 2. Visualização dos dados
+###  2. Visualização dos dados
 
 Com o uso da biblioteca **Plotly**, foram criados gráficos interativos que permitem:
 
@@ -33,7 +33,7 @@ Com o uso da biblioteca **Plotly**, foram criados gráficos interativos que perm
 
 ---
 
-## 📈 Visualizações e Dashboard Interativo
+##  Visualizações e Dashboard Interativo
 
 Abaixo estão algumas das principais análises realizadas:
 ['Dias de atraso'](https://thales1904.github.io/Gr-fico-e-Banco-de-Dados/Gráficos/dias_atraso.html)
