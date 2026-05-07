@@ -36,9 +36,9 @@ Com o uso da biblioteca **Plotly**, foram criados gráficos interativos que perm
 ##  Visualizações e Dashboard Interativo
 
 Abaixo estão algumas das principais análises realizadas:
-['Dias de atraso'](https://thales1904.github.io/Gr-fico-e-Banco-de-Dados/Gráficos/dias_atraso.html)
-['Ligações do Call Center'](https://thales1904.github.io/Gr-fico-e-Banco-de-Dados/Gráficos/ligacoes_callcenter.html)
-['Duração de Contrato'](https://thales1904.github.io/Gr-fico-e-Banco-de-Dados/Gráficos/duracao_contrato.html)
+['Dias de atraso'](https://thales1904.github.io/Cancelamentos-Plataforma-Streaming/Gráficos/dias_atraso.html)
+['Ligações do Call Center'](https://thales1904.github.io/Cancelamentos-Plataforma-Streaming/Gráficos/ligacoes_callcenter.html)
+['Duração de Contrato'](https://thales1904.github.io/Cancelamentos-Plataforma-Streaming/Gráficos/duracao_contrato.html)
 
 ---
 
